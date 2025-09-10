@@ -21,7 +21,7 @@ The goal is to identify the impacts of interventions to support effective malari
 
 * Statistical Analysis: I used Python libraries for the bulk of the statistical analysis
 
-*Data visualization: I used Microsoft Excel to create the interactive dashboard.
+* Data visualization: I used Microsoft Excel to create the interactive dashboard.
 
-*Reporting: I compiled the breakdown of the statistical analysis in a PDF document.
+* Reporting: I compiled the breakdown of the statistical analysis in a PDF document.
 
